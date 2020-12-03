@@ -1,0 +1,48 @@
+﻿body{
+				background-image: url("Fundo4.jpg");
+				
+}
+
+
+
+
+
+h1{
+        text-align:center;
+		color:white;
+		font-family:arial;		
+}
+
+p{
+				text-align:left;
+				color:white;
+				font-family:arial;
+					
+
+}
+
+
+ul{
+				text-align:left;
+				color:white;
+				font-family:Arial;
+
+}
+
+img{
+				text-align:justify;
+				
+}
+
+
+a{
+				color:silver;
+				
+}
+
+
+
+h3{
+				text-align:right;
+				color:white;
+}
